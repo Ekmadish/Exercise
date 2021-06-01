@@ -1,0 +1,133 @@
+name: demo2
+description: A new Flutter project.
+
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  
+  cupertino_icons: ^1.0.2
+  cloud_firestore: ^1.0.7
+  firebase_core: ^1.1.0
+
+
+  # For handling authentication via firebase
+  # firebase_auth: ^1.1.2
+
+  #image
+  image: ^3.0.2
+
+  # Shimmer effect library
+  shimmer: ^2.0.0
+
+  # Emojies
+  # emoji_picker: ^0.1.0
+  emoji_picker_flutter: ^1.0.4
+
+  # image_picker
+  image_picker: ^0.7.4
+
+
+  # firebase storage
+  firebase_storage: ^8.0.5
+
+  # provider
+  provider: ^5.0.0
+
+  # cached network image
+  cached_network_image: ^3.0.0
+
+  #timeago: 
+  timeago: ^3.0.2
+
+  fluttertoast: ^8.0.6
+  #shimmer_animation: ^2.0.0
+  shimmer_animation: ^2.0.0
+
+  permission_handler: ^7.1.0
+  
+
+  #group_radio_button
+  group_button: ^2.2.0
+  dio: ^4.0.0
+  # downloads_path_provider_28: ^0.1.0
+  
+  open_file: ^3.2.0
+  flutter_local_notifications: ^5.0.0+3
+
+
+  firebase_core_web: ^1.0.2 
+
+  url_launcher: ^6.0.3
+  
+
+
+
+  
+  firebase_messaging: 
+  universal_platform:
+  firebase_messaging_web: 
+
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+  assets:
+    - assets/
+    - app_logo.png
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
